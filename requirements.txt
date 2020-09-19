@@ -1,0 +1,6 @@
+gensim==3.8.3
+streamlit==0.67.0
+spacy-streamlit==0.0.3
+sumy==0.8.1
+textblob==0.15.3
+spacy==2.3.2
